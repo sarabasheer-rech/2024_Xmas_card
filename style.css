@@ -168,5 +168,5 @@ body {
 
 
 .card:hover {
-    animation: bounce 1s ease;
+    animation: bounce 0.5s ease;
 }
